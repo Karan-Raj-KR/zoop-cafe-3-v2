@@ -1,0 +1,26 @@
+globalThis.__BUILD_MANIFEST = {
+  "pages": {
+    "/_app": []
+  },
+  "devFiles": [],
+  "polyfillFiles": [
+    "static/chunks/2c4d1_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_105947da._.js",
+    "static/chunks/2c4d1_next_dist_compiled_react-dom_b8cf33cb._.js",
+    "static/chunks/2c4d1_next_dist_compiled_react-server-dom-turbopack_317e5f52._.js",
+    "static/chunks/2c4d1_next_dist_compiled_next-devtools_index_a37ef308.js",
+    "static/chunks/2c4d1_next_dist_compiled_8f0c61e8._.js",
+    "static/chunks/2c4d1_next_dist_client_f88abf04._.js",
+    "static/chunks/2c4d1_next_dist_4cfa2fd6._.js",
+    "static/chunks/2c4d1_@swc_helpers_cjs_fc412a54._.js",
+    "static/chunks/Projects_galaxy inn_zoop-cafe-3-v2_a0ff3932._.js",
+    "static/chunks/turbopack-Projects_galaxy inn_zoop-cafe-3-v2_b266bf62._.js"
+  ]
+};
+globalThis.__BUILD_MANIFEST.lowPriorityFiles = [
+"/static/" + process.env.__NEXT_BUILD_ID + "/_buildManifest.js",
+"/static/" + process.env.__NEXT_BUILD_ID + "/_ssgManifest.js"
+];
